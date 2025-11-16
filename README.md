@@ -87,10 +87,12 @@ sudo dnf install nginx -y
 
 Start the server:
 
+
 sudo systemctl start nginx
 
 
 Verify it’s running:
+
 
 sudo systemctl status nginx
 
